@@ -1,8 +1,12 @@
 import React from "react"
+import Home from "./Home"
+
 
 function App(){
 
-return <h1>Hello</h1>
+return <>
+<Home />
+</>
 }
 
 export default App

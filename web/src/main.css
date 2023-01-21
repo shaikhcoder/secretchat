@@ -1,0 +1,26 @@
+*{
+background-image: linear-gradient(0.25turn,#103ce7,#64e9ff);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.Man_div{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 97lvh;
+}
+
+.Chiled_div{
+color: white;
+border: 1px solid #54889de6;
+padding: 15px;
+border-radius: 4px;
+cursor: pointer;
+transition: all .7s ease-in-out;
+}
+
+.Chiled_div:hover{
+color: black;
+background: #ffffffa6;
+
+}
